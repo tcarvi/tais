@@ -1,10 +1,11 @@
 # tais
-- Artificial Intelligence System written with c++ and golang
+- Artificial Intelligence System
 
-## Toolskits
+## Toolkits
 - TensorFlow ( https://github.com/tensorflow )
 - PyTorch ( https://github.com/pytorch )
 - Keras ( https://keras.io/ )
+- pytorch_geometric ( https://github.com/rusty1s/pytorch_geometric )
 
 ## Concepts:
 - convolutional neural networks (CNNs)
