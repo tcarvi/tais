@@ -20,3 +20,6 @@
 # Courses:
 - http://introtodeeplearning.com/
 - https://classroom.udacity.com/courses/ud187
+
+# Books:
+- https://www.deeplearningbook.org/
