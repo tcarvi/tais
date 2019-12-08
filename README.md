@@ -20,6 +20,8 @@
 # Courses:
 - http://introtodeeplearning.com/
 - https://classroom.udacity.com/courses/ud187
+- https://www.coursera.org/specializations/tensorflow-in-practice?utm_source=deeplearningai&utm_medium=institutions&utm_campaign=WebsiteCoursesTFSTopButton
 
 # Books:
 - https://www.deeplearningbook.org/
+- http://neuralnetworksanddeeplearning.com/chap1.html
